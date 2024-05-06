@@ -1,3 +1,12 @@
 [submodule "mmpose"]
 	path = mmpose
 	url = https://github.com/open-mmlab/mmpose.git
+[submodule "lagent"]
+	path = lagent
+	url = https://gitee.com/internlm/lagent.git
+[submodule "agentlego"]
+	path = agentlego
+	url = https://gitee.com/internlm/agentlego.git
+[submodule "Tutorial"]
+	path = Tutorial
+	url = https://github.com/InternLM/Tutorial.git
